@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_DelayPrint/templates *
+recursive-include octoprint_DelayPrint/translations *
+recursive-include octoprint_DelayPrint/static *
